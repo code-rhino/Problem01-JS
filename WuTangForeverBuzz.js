@@ -1,5 +1,5 @@
 class WuTangForeverBuzz {
-    wuTangClan(){
+    wuTangClan(inputValue){
         let output ="";
 
         return output;
